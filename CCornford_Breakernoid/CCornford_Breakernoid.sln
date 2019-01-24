@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCornford_Breakernoid", "CCornford_Breakernoid\CCornford_Breakernoid.csproj", "{D354AE68-D645-48B4-BCBD-0E0EA20DC101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D354AE68-D645-48B4-BCBD-0E0EA20DC101}.Debug|x86.ActiveCfg = Debug|x86
+		{D354AE68-D645-48B4-BCBD-0E0EA20DC101}.Debug|x86.Build.0 = Debug|x86
+		{D354AE68-D645-48B4-BCBD-0E0EA20DC101}.Release|x86.ActiveCfg = Release|x86
+		{D354AE68-D645-48B4-BCBD-0E0EA20DC101}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C0E94C-0651-4885-8900-DE3BA7DFA0B4}
+	EndGlobalSection
+EndGlobal
